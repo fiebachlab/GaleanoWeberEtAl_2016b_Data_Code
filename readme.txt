@@ -1,5 +1,5 @@
 % This folder contains the behavioral datasets and Matlab code used for analysis of behavioral data from the paper 
-% "Distributed patterns of occipito-parietal functional connectivity predict the precision and variability of visual working memory"
+% "Distributed patterns of occipito-parietal functional connectivity predict the precision of visual working memory"
 % by Elena Galeano Weber, Tim Hahn, Kirsten Hilger, and Christian J. Fiebach (submitted/under revision; citation to be updated)
 
 % Fiebach Cognitive Neuroscience Lab, Department of Psychology, Goethe University Frankfurt, Germany
